@@ -1,0 +1,398 @@
+[
+  {
+    "waypoints": [
+      {
+        "coordinates": [
+          4.178755,
+          73.5152
+        ],
+        "timestamp": 1682539269
+      },
+      {
+        "coordinates": [
+          4.178683,
+          73.51511
+        ],
+        "timestamp": 1682547545
+      },
+      {
+        "coordinates": [
+          4.178671,
+          73.51476
+        ],
+        "timestamp": 1682547605
+      },
+      {
+        "coordinates": [
+          4.178586,
+          73.514725
+        ],
+        "timestamp": 1682547635
+      },
+      {
+        "coordinates": [
+          4.178491,
+          73.51466
+        ],
+        "timestamp": 1682548205
+      },
+      {
+        "coordinates": [
+          4.178648,
+          73.51468
+        ],
+        "timestamp": 1682548235
+      },
+      {
+        "coordinates": [
+          4.179498,
+          73.51451
+        ],
+        "timestamp": 1682548265
+      },
+      {
+        "coordinates": [
+          4.18076,
+          73.51332
+        ],
+        "timestamp": 1682548295
+      },
+      {
+        "coordinates": [
+          4.181466,
+          73.51173
+        ],
+        "timestamp": 1682548325
+      },
+      {
+        "coordinates": [
+          4.181995,
+          73.51005
+        ],
+        "timestamp": 1682548355
+      },
+      {
+        "coordinates": [
+          4.182333,
+          73.50831
+        ],
+        "timestamp": 1682548385
+      },
+      {
+        "coordinates": [
+          4.182383,
+          73.50656
+        ],
+        "timestamp": 1682548415
+      },
+      {
+        "coordinates": [
+          4.181786,
+          73.50458
+        ],
+        "timestamp": 1682548445
+      },
+      {
+        "coordinates": [
+          4.180341,
+          73.50301
+        ],
+        "timestamp": 1682548475
+      },
+      {
+        "coordinates": [
+          4.178721,
+          73.50153
+        ],
+        "timestamp": 1682548505
+      },
+      {
+        "coordinates": [
+          4.176853,
+          73.50015
+        ],
+        "timestamp": 1682548535
+      },
+      {
+        "coordinates": [
+          4.174683,
+          73.49902
+        ],
+        "timestamp": 1682548565
+      },
+      {
+        "coordinates": [
+          4.172423,
+          73.49779
+        ],
+        "timestamp": 1682548595
+      },
+      {
+        "coordinates": [
+          4.169548,
+          73.4963
+        ],
+        "timestamp": 1682548625
+      },
+      {
+        "coordinates": [
+          4.166693,
+          73.493774
+        ],
+        "timestamp": 1682548655
+      },
+      {
+        "coordinates": [
+          4.163791,
+          73.49092
+        ],
+        "timestamp": 1682548685
+      },
+      {
+        "coordinates": [
+          4.162438,
+          73.48924
+        ],
+        "timestamp": 1682548701
+      },
+      {
+        "coordinates": [
+          4.16173,
+          73.48761
+        ],
+        "timestamp": 1682548715
+      },
+      {
+        "coordinates": [
+          4.159678,
+          73.484245
+        ],
+        "timestamp": 1682548745
+      },
+      {
+        "coordinates": [
+          4.157096,
+          73.48098
+        ],
+        "timestamp": 1682548775
+      },
+      {
+        "coordinates": [
+          4.154578,
+          73.47768
+        ],
+        "timestamp": 1682548805
+      },
+      {
+        "coordinates": [
+          4.152093,
+          73.47428
+        ],
+        "timestamp": 1682548835
+      },
+      {
+        "coordinates": [
+          4.149491,
+          73.47099
+        ],
+        "timestamp": 1682548865
+      },
+      {
+        "coordinates": [
+          4.146886,
+          73.46773
+        ],
+        "timestamp": 1682548895
+      },
+      {
+        "coordinates": [
+          4.144063,
+          73.46467
+        ],
+        "timestamp": 1682548925
+      },
+      {
+        "coordinates": [
+          4.141081,
+          73.46176
+        ],
+        "timestamp": 1682548955
+      },
+      {
+        "coordinates": [
+          4.138063,
+          73.458916
+        ],
+        "timestamp": 1682548985
+      },
+      {
+        "coordinates": [
+          4.135061,
+          73.456
+        ],
+        "timestamp": 1682549015
+      },
+      {
+        "coordinates": [
+          4.132088,
+          73.45306
+        ],
+        "timestamp": 1682549045
+      },
+      {
+        "coordinates": [
+          4.128736,
+          73.45051
+        ],
+        "timestamp": 1682549075
+      },
+      {
+        "coordinates": [
+          4.12541,
+          73.44803
+        ],
+        "timestamp": 1682549105
+      },
+      {
+        "coordinates": [
+          4.122018,
+          73.4457
+        ],
+        "timestamp": 1682549135
+      },
+      {
+        "coordinates": [
+          4.11856,
+          73.443504
+        ],
+        "timestamp": 1682549165
+      },
+      {
+        "coordinates": [
+          4.115131,
+          73.441216
+        ],
+        "timestamp": 1682549195
+      },
+      {
+        "coordinates": [
+          4.112156,
+          73.43841
+        ],
+        "timestamp": 1682549225
+      },
+      {
+        "coordinates": [
+          4.110671,
+          73.434555
+        ],
+        "timestamp": 1682549255
+      },
+      {
+        "coordinates": [
+          4.108915,
+          73.4308
+        ],
+        "timestamp": 1682549285
+      },
+      {
+        "coordinates": [
+          4.107065,
+          73.42715
+        ],
+        "timestamp": 1682549315
+      },
+      {
+        "coordinates": [
+          4.105093,
+          73.42353
+        ],
+        "timestamp": 1682549345
+      },
+      {
+        "coordinates": [
+          4.103,
+          73.41993
+        ],
+        "timestamp": 1682549375
+      },
+      {
+        "coordinates": [
+          4.1008,
+          73.416405
+        ],
+        "timestamp": 1682549405
+      },
+      {
+        "coordinates": [
+          4.098568,
+          73.41291
+        ],
+        "timestamp": 1682549435
+      },
+      {
+        "coordinates": [
+          4.096193,
+          73.40951
+        ],
+        "timestamp": 1682549465
+      },
+      {
+        "coordinates": [
+          4.093695,
+          73.406204
+        ],
+        "timestamp": 1682549495
+      },
+      {
+        "coordinates": [
+          4.093786,
+          73.402756
+        ],
+        "timestamp": 1682549525
+      },
+      {
+        "coordinates": [
+          4.094348,
+          73.40237
+        ],
+        "timestamp": 1682549555
+      },
+      {
+        "coordinates": [
+          4.094635,
+          73.402306
+        ],
+        "timestamp": 1682549585
+      },
+      {
+        "coordinates": [
+          4.104193,
+          73.42188
+        ],
+        "timestamp": 1682552163
+      },
+      {
+        "coordinates": [
+          4.106276,
+          73.42549
+        ],
+        "timestamp": 1682552193
+      },
+      {
+        "coordinates": [
+          4.133361,
+          73.45561
+        ],
+        "timestamp": 1682552493
+      },
+      {
+        "coordinates": [
+          4.136165,
+          73.458565
+        ],
+        "timestamp": 1682552523
+      }
+    ]
+  }
+]
